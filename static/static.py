@@ -1,10 +1,10 @@
 HTML = """
-Close your eyes and I'll kiss you
-Tomorrow I'll miss you
-Remember I'll always be true
-And then while I'm away
-I'll write home every day
-And I'll send all my loving to you """"""
+Don’t care about them all
+Cause all I want is to be loved
+And all I care about is you
+You’re stuck on me like a tattoo
+No, I don’t care about the pain
+I’ll walk through fire and through rain
 """
 <!DOCTYPE html>
 <html>
