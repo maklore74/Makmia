@@ -1,5 +1,11 @@
 HTML = """
-We took lots of breaks and sat in cafes along the river Seine. The French food we ate was delicious. The wines were tasty, too. Steve’s favorite part of the vacation was the hotel breakfast. He said he would be happy if he could eat croissants like those forever. We had so much fun that we’re already talking about our next vacation!
+Close your eyes and I'll kiss you
+Tomorrow I'll miss you
+Remember I'll always be true
+And then while I'm away
+I'll write home every day
+And I'll send all my loving to you """"""
+"""
 <!DOCTYPE html>
 <html>
 <head>
