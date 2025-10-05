@@ -1,9 +1,10 @@
 HTML = """
-my name is cat and my friend
-the dog is on the top
-the sun is very hot
-for my door is close
-the house is very big the sun is hot
+Close your eyes and I'll kiss you
+Tomorrow I'll miss you
+Remember I'll always be true
+And then while I'm away
+I'll write home every day
+And I'll send all my loving to you
 """"
 <!DOCTYPE html>
 <html>
