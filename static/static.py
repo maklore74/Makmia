@@ -1,10 +1,10 @@
 HTML = """
-My head 'neath these covers
-Life is like the seasons
-After winter comes the spring
-But things can't get worse than now
-So I'll keep on tryin' to sing
-But please, just don't ask me how """""""
+Don’t care about them all
+Cause all I want is to be loved
+And all I care about is you
+You’re stuck on me like a tattoo
+No, I don’t care about the pain
+I’ll walk through fire and through rain
 """
 <!DOCTYPE html>
 <html>
