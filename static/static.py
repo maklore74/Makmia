@@ -1,11 +1,5 @@
 HTML = """
-Don’t care about them all
-Cause all I want is to be loved
-And all I care about is you
-You’re stuck on me like a tattoo
-No, I don’t care about the pain
-I’ll walk through fire and through rain """""""
-"""
+We took lots of breaks and sat in cafes along the river Seine. The French food we ate was delicious. The wines were tasty, too. Steve’s favorite part of the vacation was the hotel breakfast. He said he would be happy if he could eat croissants like those forever. We had so much fun that we’re already talking about our next vacation!
 <!DOCTYPE html>
 <html>
 <head>
