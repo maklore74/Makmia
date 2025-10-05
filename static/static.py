@@ -5,6 +5,7 @@ Remember I'll always be true
 And then while I'm away
 I'll write home every day
 And I'll send all my loving to you """"""
+"""
 <!DOCTYPE html>
 <html>
 <head>
@@ -21,7 +22,7 @@ And I'll send all my loving to you """"""
             padding: 0;
             width: 100%;
             height: 100%;
-            font-size: 2.2vh;
+            font-size: 1.1vh;
             font-family: 'Open Sans', Arial, sans-serif;
             color: white;
             background: url('https://i.postimg.cc/ry3p76HY/italian-seamless-free-vector-pattern3.png') center center repeat;
