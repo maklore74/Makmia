@@ -1,6 +1,11 @@
-# static.py
-
 HTML = """
+My head 'neath these covers
+Life is like the seasons
+After winter comes the spring
+But things can't get worse than now
+So I'll keep on tryin' to sing
+But please, just don't ask me how """""""
+"""
 <!DOCTYPE html>
 <html>
 <head>
